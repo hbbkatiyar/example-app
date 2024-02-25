@@ -1,3 +1,3 @@
 # Laravel 10 Course
 
-## Get this course from bitfume youtibe channel
+## Get this course from bitfume youtube channel
